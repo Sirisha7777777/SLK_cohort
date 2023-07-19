@@ -1,0 +1,5 @@
+why is Java not a purely object oriented?
+Ans: Java is not purely an object oriented language as it supports primitive data types.
+how is java differ from C++?
+Ans: C++ is only a compiled language, whereas Java is compiled as well as interpreted language.
+:C++ supports pointers concepts wheareas Java doesn't support pointers concept.
