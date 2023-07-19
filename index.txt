@@ -1,0 +1,4 @@
+What is Java?
+:Java ia an object oriented language.
+Why Java is not a purely object oriented language?
+: Java is not a purely object oriented language as it contains primitive data types in it.
